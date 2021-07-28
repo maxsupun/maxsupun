@@ -15,10 +15,6 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCLziWEeJ-VZuUnZaFUIYTOA?label=Uvindu%20Bro&style=social)](https://www.youtube.com/c/UvinduBro/videos)
-
-
-[![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA?sub_confirmation=1)&nbsp;
 
 - ![Profile views](https://gpvc.arturio.devs/ltechworld)
 
