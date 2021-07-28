@@ -10,7 +10,7 @@ You can use the website to generate badges: https://shields.io/
 -  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m looking for help : For  Me  <br>
 -  💬 Ask me about : ![website](https://img.shields.io/badge/Go%20to-https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA?sub_confirmation=1) <br>
--  ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/Age-15-yellow) Teen 😄
+
 -  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
 
@@ -53,10 +53,8 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-# MOST USED LANGUAGES
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=UvinduBro&theme=dark&show_icons=true)
 
 # CONTACT ME ON
 
 <p align="left">
-<a href="https://t.me/Uvindu_Bro" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://t.me/maxsupun1" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
