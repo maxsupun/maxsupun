@@ -19,12 +19,12 @@ You can use the website to generate badges: https://shields.io/
 
 
 ### My Github Status
-![UvinduBro's GitHub Status](https://github-readme-stats.vercel.app/api?username=UvinduBro&theme=dark&show_icons=true)
+![Supun Max's GitHub Status](https://github-readme-stats.vercel.app/api?username=UvinduBro&theme=dark&show_icons=true)
 
 - ![Profile views](https://gpvc.arturio.dev/UvinduBro)
 
 
-<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UvinduBro&theme=alduin" alt="UvinduBro" /></a> </p>
+<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Supun Max&theme=alduin" alt="Supun Max" /></a> </p>
 
 
 
