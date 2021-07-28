@@ -18,10 +18,9 @@ You can use the website to generate badges: https://shields.io/
 [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCBNsVUq2MLyxDSe62ljjWdQ?label=Uvindu%20Bro&style=social)](https://www.youtube.com/c/UvinduBro/videos)
 
 
-### My Github Status
-![Supun Max's GitHub Status](https://github-readme-stats.vercel.app/api?username=UvinduBro&theme=dark&show_icons=true)
+[![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA?sub_confirmation=1)&nbsp;
 
-- ![Profile views](https://gpvc.arturio.dev/UvinduBro)
+- ![Profile views](https://gpvc.arturio.devs/ltechworld)
 
 
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Supun Max&theme=alduin" alt="Supun Max" /></a> </p>
