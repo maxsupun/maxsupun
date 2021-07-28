@@ -56,7 +56,13 @@ You can use the website to generate badges: https://shields.io/
 
 # CONTACT ME ON
 
-<p align="left">
-<a href="https://t.me/maxsupun1" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+
   
   <img src="https://github.com/rixon-cochi/rixon-cochi/raw/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif" style="max-width:100%;">
+  
+  
+  
+  
+  
+  <p align="left">
+<a href="https://t.me/maxsupun1" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
