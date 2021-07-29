@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-- ![Profile views](https://gpvc.arturio.devs/ltechworld)
+- ![Profile views](https://gpvc.arturio.devs/sltechworld)
 
 
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Supun Max&theme=alduin" alt="Supun Max" /></a> </p>
