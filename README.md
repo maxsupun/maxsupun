@@ -19,8 +19,6 @@ You can use the website to generate badges: https://shields.io/
 - ![Profile views](https://gpvc.arturio.dev/sltechworld)
 
 
-<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sltechworld&theme=alduin" alt="sltechworld" /></a> </p>
-
 
 
 
