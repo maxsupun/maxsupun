@@ -17,21 +17,12 @@ You can use the website to generate badges: https://shields.io/
 
 
 - ![Profile views](https://gpvc.arturio.dev/sltechworld)
-- [![Code Palace](https://img.shields.io/youtube/channel/subscribers/https://www.youtube.com/channel/VZuUnZaFUIYTOA?label=SL%20Tech%20World&style=social)](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA/Vedios)
+
 
 
 ![Supun Max's GitHub Status](https://github-readme-stats.vercel.app/api?username=maxsupun&theme=dark&show_icons=true)
 
-
-
-
-
-
-
-
-
-
-
+<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxsupun&theme=alduin" alt="UvinduBro" /></a> </p>
 
 
 # MY TOOLS AND LANG
