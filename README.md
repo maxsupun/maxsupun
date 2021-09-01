@@ -19,6 +19,8 @@ You can use the website to generate badges: https://shields.io/
 - ![Profile views](https://gpvc.arturio.dev/sltechworld)
 
 
+![Supun Max's GitHub Status](https://github-readme-stats.vercel.app/api?username=maxsupun&theme=dark&show_icons=true)
+
 
 
 
