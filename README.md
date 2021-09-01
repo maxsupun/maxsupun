@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 - ![Profile views](https://gpvc.arturio.dev/sltechworld)
-- [![Code Palace](https://img.shields.io/youtube/channel/subscribers/https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA?label=SL%20Tech%20World&style=social)](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA)
+- [![Code Palace](https://img.shields.io/youtube/channel/subscribers/https://www.youtube.com/channel/VZuUnZaFUIYTOA?label=SL%20Tech%20World&style=social)](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA)
 
 
 ![Supun Max's GitHub Status](https://github-readme-stats.vercel.app/api?username=maxsupun&theme=dark&show_icons=true)
