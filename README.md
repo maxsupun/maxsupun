@@ -1,14 +1,10 @@
 
-
+# Hey, I am
 
 ▒█▀▀▀█ ▒█░▒█ ▒█▀▀█ ▒█░▒█ ▒█▄░▒█ 　 ▒█▀▄▀█ ░█▀▀█ ▀▄▒▄▀                                                                                                                       
 ░▀▀▀▄▄ ▒█░▒█ ▒█▄▄█ ▒█░▒█ ▒█▒█▒█ 　 ▒█▒█▒█ ▒█▄▄█ ░▒█░░                                                                                                                       
 ▒█▄▄▄█ ░▀▄▄▀ ▒█░░░ ░▀▄▄▀ ▒█░░▀█ 　 ▒█░░▒█ ▒█░▒█ ▄▀▒▀▄                                                                                                                                                 
 
-
-
-
-# Hey, I am Supun Max <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 
 
 <!-- Your badges
@@ -67,3 +63,6 @@ You can use the website to generate badges: https://shields.io/
   
   <p align="left">
 <a href="https://t.me/maxsupun1" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+  
+  <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
+
