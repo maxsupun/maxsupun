@@ -3,7 +3,10 @@
 
 ▒█▀▀▀█ ▒█░▒█ ▒█▀▀█ ▒█░▒█ ▒█▄░▒█ 　 ▒█▀▄▀█ ░█▀▀█ ▀▄▒▄▀                                                                                                                       
 ░▀▀▀▄▄ ▒█░▒█ ▒█▄▄█ ▒█░▒█ ▒█▒█▒█ 　 ▒█▒█▒█ ▒█▄▄█ ░▒█░░                                                                                                                       
-▒█▄▄▄█ ░▀▄▄▀ ▒█░░░ ░▀▄▄▀ ▒█░░▀█ 　 ▒█░░▒█ ▒█░▒█ ▄▀▒▀▄                                                                                                                                                 
+▒█▄▄▄█ ░▀▄▄▀ ▒█░░░ ░▀▄▄▀ ▒█░░▀█ 　 ▒█░░▒█ ▒█░▒█ ▄▀▒▀▄   
+
+<img src="https://github.com/rixon-cochi/rixon-cochi/raw/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif" style="max-width:100%;">
+
 
 
 
@@ -48,7 +51,7 @@ You can use the website to generate badges: https://shields.io/
   <br>
 </p>  
 
-  <img src="https://github.com/rixon-cochi/rixon-cochi/raw/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif" style="max-width:100%;">
+  
 
 
 # CONTACT ME ON
