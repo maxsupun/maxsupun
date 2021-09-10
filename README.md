@@ -20,9 +20,12 @@ You can use the website to generate badges: https://shields.io/
 
 -  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
 -  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
--  💬 Ask me about : ![website] <a href="https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA?sub_confirmation=1" <br> 
+-  💬 Ask me about : ![website] <a href="" <br> 
 
 -  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
+-  
+|   Youtube   | [![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA?sub_confirmation=1)&nbsp; |
+
 
 
 
