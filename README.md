@@ -26,11 +26,12 @@ You can use the website to generate badges: https://shields.io/
     <li>🧐 Currently Learning,
     <li>👨‍💻 Mostly Projects Are Private 😅.
     <li>💬 Generally Available on  <strong><a href="#-contact-me" target="_blank" rel="noopener noreferrer">Telegram</a></strong>.</li>
-    <li>🤓 Ready To Help Others.
+    <li> 🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
+    <li> 👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
+     <li>🤓 Ready To Help Others.
+    <li> 📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 </ul>
--  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
--  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
-- 📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
+
 
 |  Telegram    | [![Telegram](https://img.shields.io/badge///SL_Tech_World%20Team-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/SL_Tech_Worldchat)&nbsp;|
 
