@@ -17,7 +17,17 @@ You can use the website to generate badges: https://shields.io/
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Deploy+some+bots;-%3E+Github+student;-%3E+Codes+learner;-%3EYoutuber;-%3E+AL+student;-%3E+Html+user)](https://git.io/typing-svg)
  
-
+</p>
+<br>
+<h2 align="center">⚡️ About Me</h2>
+    <a href="https://1danish-00.github.io/2048/"><img align="right" height="150px" width="150px" src="file/2048-self-solver.gif" style="right:0px"></a>
+<ul>
+    <li>🔭 I’m currently working on Some Telegram Bots & Apis.
+    <li>🧐 Currently Learning,
+    <li>👨‍💻 Mostly Projects Are Private 😅.
+    <li>💬 Generally Available on  <strong><a href="#-contact-me" target="_blank" rel="noopener noreferrer">Telegram</a></strong>.</li>
+    <li>🤓 Ready To Help Others.
+</ul>
 -  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
 -  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 - 📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
