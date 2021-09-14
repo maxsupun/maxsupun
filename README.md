@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 
 -->
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Deploy+some+bots;-%3E+Github+student;-%3E+Codes+learner;-%3EYoutuber;-%3E+AL+student;-%3E+Html+user)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Deploy+some+bots;-%3E+Github+student;-%3E+Codes+learner;-%3EYoutuber;-%3E+Helper;-%3E+Html+user)](https://git.io/typing-svg)
  
 </p>
 <br>
