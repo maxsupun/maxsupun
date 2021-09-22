@@ -85,15 +85,10 @@ You can use the website to generate badges: https://shields.io/
 <h2 align="center">🔧 IDE / ☁️ Clouds </h2>
 <p align="center">
     <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="" srcset=""></a>
-    
     <a href="https://heroku.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="" srcset=""></a>
     <a href="https://repl.it/"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt=""></a>
-    
     <a href="https://github.com/action/"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="" srcset=""></a>
-    
    <a href="https://www.termux.com/"><img src="https://img.shields.io/badge/Termux-414141?style=for-the-badge&logo=tmux&logoColor=#1BB91F" alt=""></a>
-
-
 </p>
 
 
