@@ -1,5 +1,5 @@
 
-<h2 align="center">Hello<br>I'm Supun Max🏻‍♂️</h1>
+<h2 align="center">Hello<br>I'm Supun Max</h1>
 <h4 align="center">I am a simple developer..</h3>
 <h7 align="left">Moreover, I am the founder of the Max Robot project. <br>Max Robot Project 👸</h7>
 <br>
