@@ -37,11 +37,6 @@ You can use the website to generate badges: https://shields.io/
 - 💫 **I am only a beginner developer.. 🌆**
 
 
-# Social Media
-
-
-
-|   Youtube   |  |
 
 
 
