@@ -1,12 +1,13 @@
 
-# Hey, I am
+<h2 align="center">Hello<br>I'm Supun Max🏻‍♂️</h1>
+<h4 align="center">I am a simple developer..</h3>
+<h7 align="left">Moreover, I am the founder of the Max Robot project. <br>Max Robot Project 👸</h7>
+<br>
+<h2 align="center">📞 Contact Me</h2>
+<p align="center">
+    <a href="https://t.me/maxsupun1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="" srcset=""></a>
+    <a href="https://github.com/maxsupun"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""></a>
 
-
-▒█▀▀▀█ █░░█ █▀▀█ █░░█ █▀▀▄ 　 ▒█▀▄▀█ █▀▀█ █░█ 
-░▀▀▀▄▄ █░░█ █░░█ █░░█ █░░█ 　 ▒█▒█▒█ █▄▄█ ▄▀▄ 
-▒█▄▄▄█ ░▀▀▀ █▀▀▀ ░▀▀▀ ▀░░▀ 　 ▒█░░▒█ ▀░░▀ ▀░▀
-
-<h2 align="right"> <img src="https://github.com/rixon-cochi/rixon-cochi/raw/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif" style="max-width:100%;">
 
 
 
