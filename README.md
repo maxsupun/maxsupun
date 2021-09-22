@@ -9,6 +9,8 @@
     <a href="https://github.com/maxsupun"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""></a>
 
 
+    
+<a href="https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)]()&nbsp;" alt=""></a>
 
 
 
@@ -39,7 +41,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-|   Youtube   | [![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA?sub_confirmation=1)&nbsp; |
+|   Youtube   |  |
 
 
 
