@@ -72,7 +72,27 @@ You can use the website to generate badges: https://shields.io/
   <br>
 </p>  
 
-  
+  </p>
+<br>
+<h2 align="center">🖥 Familiar OS</h2>
+<p align="center">
+    <a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="" srcset=""></a>
+    <a href="https://www.microsoft.com/en-in/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="" srcset=""></a>
+    <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="" srcset=""></a>
+    <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="" srcset=""></a>
+</p>
+<br>
+<h2 align="center">🔧 IDE / ☁️ Clouds </h2>
+<p align="center">
+    <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="" srcset=""></a>
+    <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt=""></a>
+    <a href="https://heroku.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="" srcset=""></a>
+    <a href="https://repl.it/"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt=""></a>
+    <a href="https://github.com/action/"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="" srcset=""></a>
+    <a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt=""></a>
+    <a href="https://www.termux.com/"><img src="https://img.shields.io/badge/Termux-414141?style=for-the-badge&logo=tmux&logoColor=#1BB91F" alt=""></a>
+
+</p>
 
 
 
