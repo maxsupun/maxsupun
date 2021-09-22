@@ -23,16 +23,16 @@ You can use the website to generate badges: https://shields.io/
 <br>
 <h2 align="center">⚡️ About Me</h2>
     <a href="https://1danish-00.github.io/2048/"><img align="right" height="150px" width="150px" src="file/2048-self-solver.gif" style="right:0px"></a>
-<ul>
-    <li>🔭 I’m currently working on Some Telegram Bots & Apis.
-    <li>🧐 Currently Learning,
-    <li>👨‍💻 Mostly Projects Are Private 😅.
-    <li>💬 Generally Available on  <strong><a href="#-contact-me" target="_blank" rel="noopener noreferrer">Telegram</a></strong>.</li>
-    <li> 🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
-    <li> 👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
-     <li>🤓 Ready To Help Others.
-    <li> 📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
-</ul>
+    
+<🔭 I’m currently working on [Max-Robot](https://github.com/maxsupun/Max-Robot)
+
+- 🌱 I’m currently learning **Java, Node.js, HTML, Python**
+
+- 👨‍💻 All of my projects are available at > [My Git](https://github.com/maxsupun/) <
+
+
+
+- 💫 **I am only a beginner developer.. 🌆**
 
 
 # Social Media
