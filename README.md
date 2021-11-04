@@ -1,6 +1,6 @@
 
 <h2 align="center">Hello<br>I'm Supun Max</h1>
-| <a href="https://t.me/maxsupun1"><img src="https://telegra.ph/file/083ee41aed67f007e1bae.jpg" width="150px" height="150px" /></a> |
+
 
 <h4 align="center">I am a simple developer..</h3>
 <h7 align="left">Moreover, I am the founder of the Max Robot project. <br>Max Robot Project 👸</h7>
