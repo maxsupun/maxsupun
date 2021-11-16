@@ -30,10 +30,10 @@ You can use the website to generate badges: https://shields.io/
 <h2 align="center">⚡️ About Me</h2>
     <a href="https://1danish-00.github.io/2048/"><img align="right" height="150px" width="150px" src="file/2048-self-solver.gif" style="right:0px"></a>
     
--🔭 I’m currently working on [Max-Robot](https://github.com/maxsupun/Max-Robot)
-- 🌱 I’m currently learning Java, Node.js, HTML, Python
-- 👨‍💻 All of my projects are available at > [My Git](https://github.com/maxsupun/) <
-- 💫 I am only a developer. but not officially
+I’m currently working on [Max-Robot](https://github.com/maxsupun/Max-Robot)
+I’m currently learning Java, Node.js, HTML, Python
+All of my projects are available at > [My Git](https://github.com/maxsupun/) <
+I am only a developer. but not officially
 
 
 
