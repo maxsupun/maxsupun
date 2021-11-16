@@ -10,7 +10,7 @@
     <a href="https://t.me/maxsupun1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="" srcset=""></a>
     <a href="https://github.com/maxsupun"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""></a>
     
-    <div style="background-image: url('j.jpg');">
+  
 
 
  <p align="center">   
