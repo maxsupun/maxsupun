@@ -9,7 +9,7 @@ You can use the website to generate badges: https://shields.io/
 | <a href="https://t.me/maxsupun1"><img src="https://telegra.ph/file/4c2f4b2bd713d19f31c0d.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       [Supun Max](https://t.me/maxsupun1)                                                                                |
-| <a href="https://t.me/maxsupun1"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a>  <a href="https://www.youtube.com/channel/UCJYoog0kYNDridrBlcvwMoQ"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="32px" height="32px"></a>      
+| <a href="https://t.me/maxsupun1"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a>  <a href="https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="32px" height="32px"></a>      
 
 
 
