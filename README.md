@@ -42,10 +42,12 @@ You can use the website to generate badges: https://shields.io/
 <h2 align="center">⚡️ About Me</h2>
    
     
--I’m currently working on [Max-Robot](https://github.com/maxsupun/Max-Robot)
--I’m currently learning Java, Node.js, HTML, Python
--All of my projects are available at > [My Git](https://github.com/maxsupun/) <
--I am only a developer. but not officially
+-  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
+-  🔭 I’m currently working on : Max Robot project <br>
+-  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
+-  🤔 I’m looking for help : For  Me  <br>
+-  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
+- ⚡️ Fun-Fact: I'm Still Student;
 
 
 
