@@ -2,6 +2,18 @@
 <h1><b> Hi !👋 There I'm Supun Max 🇱🇰 </b></h1>
 
 
+<br>
+<h2 align="center">⚡️ About Me</h2>
+   
+    
+-  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
+-  🔭 I’m currently working on : Max Robot project <br>
+-  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
+-  🤔 I’m looking for help : For  Me  <br>
+-  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
+- ⚡️ Fun-Fact: I'm Still Student;
+
+
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -38,16 +50,6 @@ You can use the website to generate badges: https://shields.io/
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Deploy+some+bots;-%3E+Github+student;-%3E+Codes+learner;-%3EYoutuber;-%3E+Helper;-%3E+Html+user)](https://git.io/typing-svg)
  
 </p>
-<br>
-<h2 align="center">⚡️ About Me</h2>
-   
-    
--  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
--  🔭 I’m currently working on : Max Robot project <br>
--  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
--  🤔 I’m looking for help : For  Me  <br>
--  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
-- ⚡️ Fun-Fact: I'm Still Student;
 
 
 
