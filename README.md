@@ -21,3 +21,7 @@
 ### You can also find me on
 - [Telegram](https://t.me/maxsupun1) 
 - [Youtube](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA)
+
+## 🏆 GitHub Activity
+
+![Metrics](https://metrics.lecoq.io/maxsupun?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
