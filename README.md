@@ -16,5 +16,5 @@ Codes Learner: Python, HTML, JAVA.
 - ![Profile views](https://gpvc.arturio.dev/sltechworld)
 
 ### You can also find me on
-[Telegram](https://t.me/maxsupun1) 
-[Youtube](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA)
+- [Telegram](https://t.me/maxsupun1) 
+- [Youtube](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA)
