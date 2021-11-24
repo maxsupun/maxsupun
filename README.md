@@ -10,6 +10,9 @@
 
  <p align="center"><a href="https://t.me/maxsupun1"><img src="https://telegra.ph/file/1be9ea6a298f70831e5e1.jpg" width="400"></a></p>
 
+## My github stats
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxsupun" alt="maxsupun" /></a> </p>
+
 ## Some facts: 
 
 - 🔭 I’m currently working [Max Robot](https://github.com/maxsupun/Max-Robot)
@@ -26,5 +29,4 @@
 
 ![Metrics](https://metrics.lecoq.io/maxsupun?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
 
-## My github stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxsupun" alt="maxsupun" /></a> </p>
+
