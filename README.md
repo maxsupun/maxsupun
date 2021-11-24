@@ -2,7 +2,7 @@
 <h1><b> Hi !👋 There I'm Supun Max 🇱🇰 </b></h1>
 
 
-
+- ![Profile views](https://gpvc.arturio.dev/sltechworld)
 
 
 
@@ -66,7 +66,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-- ![Profile views](https://gpvc.arturio.dev/sltechworld)
+
 
 
 
