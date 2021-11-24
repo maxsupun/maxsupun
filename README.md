@@ -5,6 +5,7 @@
 
 Codes Learner: Python, HTML, JAVA. 
 
+* Learnin : Python, HTML, JAVA. 
 * Databases: Mongodb
 
  <p align="center"><a href="https://t.me/maxsupun1"><img src="https://telegra.ph/file/1be9ea6a298f70831e5e1.jpg" width="400"></a></p>
