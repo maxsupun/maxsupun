@@ -1,7 +1,7 @@
 ###  Hi There 👋, I am [Supun Max](https://t.me/maxsupun1)
 
 
-###### *Code Learner*
+###### *Codes Learner*
 
 Codes Learner: Python, HTML, JAVA. 
 
