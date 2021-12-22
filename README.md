@@ -5,8 +5,8 @@
 
 ###### *Codes Learner: Python, HTML, JAVA. *
 
-* Learning : Python, HTML, JAVA. 
-* Databases: Mongodb
+<h2>* Learning : Python, HTML, JAVA. <h2/>
+<h2>* Databases: Mongodb <h2/>
 
  <p align="center"><a href="https://t.me/maxsupun1"><img src="https://telegra.ph/file/1be9ea6a298f70831e5e1.jpg" width="400"></a></p>
 
