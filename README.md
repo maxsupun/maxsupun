@@ -2,7 +2,7 @@
 
 <h2> Codes Learner <h2/>
 
-###### <h2>Codes Learner: Python, HTML, JAVA. </h2>
+###### <h5>Codes Learner: Python, HTML, JAVA. </h5>
 <br>Learning : Python, HTML, JAVA. 
 <br> Databases: Mongodb 
 
