@@ -1,6 +1,6 @@
-###  Hi There 👋, I am [Supun Max](https://t.me/maxsupun1)
+###  <h2>Hi There 👋, I am [Supun Max](https://t.me/maxsupun1)</h2>
 
-<h2> Codes Learner <h2/>
+<h4> Codes Learner </h4>
 
 ###### <h5>Codes Learner: Python, HTML, JAVA. </h5>
 <br>Learning : Python, HTML, JAVA. 
