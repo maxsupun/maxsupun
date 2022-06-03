@@ -17,8 +17,7 @@
 <br>🔭 I’m currently working [Max Robot](https://github.com/maxsupun/Max-Robot)
 <br>👯 I’m looking to collaborate on : ![github](https://img.shields.io/badge/On-Github-black) 
 <br>📫 How to reach me: [Supun Max](https://t.me/maxsupun1)
-
-- ![Profile views](https://gpvc.arturio.dev/sltechworld)
+<br>![Profile views](https://gpvc.arturio.dev/sltechworld)
 
 ### You can also find me on
 - [Telegram](https://t.me/maxsupun1) 
