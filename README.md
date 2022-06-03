@@ -6,7 +6,7 @@
 <br>Learning : Python, HTML, JAVA. 
 <br> Databases: Mongodb 
 
- <p align="center"><a href="https://t.me/maxsupun1"><img src="https://telegra.ph/file/168ed525edac04324ef46.jpg" width="400"></a></p>
+ <p align="left"><a href="https://t.me/maxsupun1"><img src="https://telegra.ph/file/168ed525edac04324ef46.jpg" width="400"></a></p>
 
 ## My github stats
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxsupun" alt="maxsupun" /></a> </p>
