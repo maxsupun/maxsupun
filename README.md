@@ -31,8 +31,10 @@
 - [Telegram](https://t.me/maxsupun1) 
 - [Youtube](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA)
 
-<a href="GATXUWWYDFFHN4SK64F6H3X6UVUCRGMR6BXJ4JAPT2MMG5QI5VRQLQNE?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UClP0fw_t0lOU1mYuL7gEa2g" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UClP0fw_t0lOU1mYuL7gEa2g" height="30" width="40" /></a>
+
 <a href="officialsupun2005@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="Supun" height="30" width="40" /></a>
+
 <a href="https://telegram.me/Maxsupun1" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="Max" height="30" width="30" /></a>
 
 <div align="left">
