@@ -1,5 +1,4 @@
 <h2>Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">, I am Supun Max</h2>
-
 <h2> Programmer From Sri Lanka </h2>
 
 
