@@ -24,7 +24,7 @@ Programmer From Sri Lanka </h2>
 
 ## Some facts: 
 
-🚶‍ &nbsp; I live in : Sri Lanka
+<p>🚶‍ &nbsp; I live in : Sri Lanka
 <br>🔭 I’m currently working [Max Robot](https://github.com/maxsupun/Max-Robot)
 <br>👯 I’m looking to collaborate on : ![github](https://img.shields.io/badge/On-Github-black) 
 <br>📫 How to reach me: [Supun Max](https://t.me/maxsupun1)
@@ -33,7 +33,7 @@ Programmer From Sri Lanka </h2>
 ### You can also find me on
 - [Telegram](https://t.me/maxsupun1) 
 - [Youtube](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA)
-
+</p>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UClP0fw_t0lOU1mYuL7gEa2g" height="30" width="40" /></a>
 
 <a href="officialsupun2005@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" alt="Supun" height="30" width="40" /></a>
