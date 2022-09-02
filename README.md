@@ -19,9 +19,6 @@ Programmer From Sri Lanka </h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxsupun" alt="maxsupun" /></a> </p>
 
 
-<br><img align="left" alt="GIF" src="https://media.giphy.com/media/l1IXYLFLJAgY1fFGo/giphy.gif" width="600"><br>
-<br>
-
 ## Some facts: 
 
 🚶‍ &nbsp; I live in : Sri Lanka
