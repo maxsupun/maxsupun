@@ -2,6 +2,10 @@
 
 <h4> Codes Learner </h4>
 
+
+<img src="https://telegra.ph/file/115a40ad72f68bb785b22.jpg">
+
+
 <br><img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 
