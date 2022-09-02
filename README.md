@@ -5,7 +5,7 @@ Programmer From Sri Lanka </h2>
 <img src="https://telegra.ph/file/03f0c3423340e433d69ec.jpg">
 
 
-<br><img align="left" alt="GIF" src="https://giphy.com/explore/internet-programming" width="400"/>
+<br><img align="left" alt="GIF" src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" width="400"/>
 
 
 <div align="left"><a href="https://github.com/maxsupun">
