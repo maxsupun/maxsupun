@@ -1,12 +1,7 @@
 <h2>Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">, I am Supun Max<br>
 Programmer From Sri Lanka </h2>
 
-<bg color="black">
-<img src="https://telegra.ph/file/03f0c3423340e433d69ec.jpg">
-
-
 <br><img align="left" alt="GIF" src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" width="400"/>
-
 
 <div align="left"><a href="https://github.com/maxsupun">
 <img src="https://github-readme-stats.vercel.app/api?username=maxsupun&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=98edc4&icon_color=105bde&text_color=D3D3D3&bg_color=0,000000,040354" alt="My Github Stats"></a>
