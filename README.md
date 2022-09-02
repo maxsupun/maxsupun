@@ -1,7 +1,7 @@
 <h2>Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">, I am Supun Max<br>
 Programmer From Sri Lanka </h2>
 
-<br><img align="left" alt="GIF" src="https://media.giphy.com/media/l1IXYLFLJAgY1fFGo/giphy.gif">
+<br><img align="left" alt="GIF" src="https://media.giphy.com/media/l1IXYLFLJAgY1fFGo/giphy.gif" width="600">
 
 <br><br>
 
