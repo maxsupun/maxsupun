@@ -2,7 +2,7 @@
 ##Programmer From Sri Lanka </h2>
 
 
-<img src="https://telegra.ph/file/03f0c3423340e433d69ec.jpg">
+<bg img src="https://telegra.ph/file/03f0c3423340e433d69ec.jpg">
 
 
 <br><img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
