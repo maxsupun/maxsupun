@@ -1,9 +1,9 @@
 <h2>Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">, I am Supun Max</h2>
 
-<h4> Codes Learner </h4>
+<h2> Programmer From Sri Lanka </h2>
 
 
-<img src="https://telegra.ph/file/115a40ad72f68bb785b22.jpg">
+<img src="https://telegra.ph/file/892ecdb6d0c5c5efe6ac1.png">
 
 
 <br><img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
