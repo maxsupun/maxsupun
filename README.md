@@ -1,17 +1,16 @@
-# 👋 Hello, World! I'm [Your Name]
+# 👋 Hello, World! I'm Supun Max
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maxsupun&color=blue) ![GitHub Followers](https://img.shields.io/github/followers/maxsupun?style=social)
 
 ## 🌟 About Me
-I'm a passionate [Your Profession/Role] with a love for [Your Interests/Technologies]. I enjoy turning ideas into reality through code and creativity. When I'm not coding, you can find me [Your Hobbies/Activities].
+I'm a passionate programmer with a love for programming. I enjoy turning ideas into reality through code and creativity. When I'm not coding, you can find me in Gaming.
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Technologies/Skills You Are Learning]
-- 👯 I’m looking to collaborate on [Type of Projects You Want to Collaborate On]
-- 🤔 I’m looking for help with [Any Challenges You Are Facing]
+- 🔭 I’m currently working on MaxProjects.
+- 🌱 I’m currently learning Python,Java,Css.
+- 👯 I’m looking to collaborate on Bot Projects.
 - 💬 Ask me about [Your Areas of Expertise]
-- 📫 How to reach me: [Your Email or Contact Method]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 📫 How to reach me: Email: supunprasanjana@gmail.com
+- ⚡ Fun fact: crazy
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -25,12 +24,10 @@ I'm a passionate [Your Profession/Role] with a love for [Your Interests/Technolo
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxsupun&show_icons=true&theme=radical)
 
 ## 🌍 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
+- [Personal Website](https://maxsupun.github.io/About-Supun/)
 
 ## 🎉 Some of My Projects
-- [Project 1](https://github.com/yourusername/project1) - A brief description of what this project does.
+- [Project 1](https://github.com/maxsupun/Max-Robot) - A next gen powerful Telegram group manager
 - [Project 2](https://github.com/yourusername/project2) - A brief description of what this project does.
 - [Project 3](https://github.com/yourusername/project3) - A brief description of what this project does.
 
