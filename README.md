@@ -1,42 +1,44 @@
-<h2>Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">, I am Supun Max<br>
-Programmer From Sri Lanka </h2>
+# 👋 Hello, World! I'm [Your Name]
 
-<div align="left"><a href="https://github.com/maxsupun">
-<img src="https://github-readme-stats.vercel.app/api?username=maxsupun&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=98edc4&icon_color=105bde&text_color=D3D3D3&bg_color=0,000000,040354" alt="My Github Stats"></a>
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=maxsupun&color=blue) ![GitHub Followers](https://img.shields.io/github/followers/maxsupun?style=social)
 
-###### <h5>Codes Learner: Python, HTML, JAVA. </h5>
-<br>Learning : Python, HTML, JAVA. 
-<br> Databases: Mongodb 
+## 🌟 About Me
+I'm a passionate [Your Profession/Role] with a love for [Your Interests/Technologies]. I enjoy turning ideas into reality through code and creativity. When I'm not coding, you can find me [Your Hobbies/Activities].
 
- <p align="left"><a href="https://t.me/maxsupun1"><img src="https://telegra.ph/file/168ed525edac04324ef46.jpg" width="400"></a></p>
+- 🔭 I’m currently working on [Your Current Project]
+- 🌱 I’m currently learning [Technologies/Skills You Are Learning]
+- 👯 I’m looking to collaborate on [Type of Projects You Want to Collaborate On]
+- 🤔 I’m looking for help with [Any Challenges You Are Facing]
+- 💬 Ask me about [Your Areas of Expertise]
+- 📫 How to reach me: [Your Email or Contact Method]
+- ⚡ Fun fact: [A Fun Fact About You]
 
-## My github stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxsupun" alt="maxsupun" /></a> </p>
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxsupun&show_icons=true&theme=radical)
 
-## Some facts: 
+## 🌍 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
+- [Personal Website](https://yourwebsite.com)
 
-🚶‍ &nbsp; I live in : Sri Lanka
-- 🔭 I’m currently working [Max Robot](https://github.com/maxsupun/Max-Robot)
-- 👯 I’m looking to collaborate on : ![github](https://img.shields.io/badge/On-Github-black) 
-- 📫 How to reach me: [Supun Max](https://t.me/maxsupun1)
-- ![Profile views](https://gpvc.arturio.dev/maxsupun)
+## 🎉 Some of My Projects
+- [Project 1](https://github.com/yourusername/project1) - A brief description of what this project does.
+- [Project 2](https://github.com/yourusername/project2) - A brief description of what this project does.
+- [Project 3](https://github.com/yourusername/project3) - A brief description of what this project does.
 
-### You can also find me on
-- [Telegram](https://t.me/maxsupun1) 
-- [Youtube](https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA)
+## 📝 Blog Posts
+- [How I Built Project 1](https://yourblog.com/how-i-built-project1)
+- [Learning React: Tips and Tricks](https://yourblog.com/learning-react)
+- [Understanding Docker](https://yourblog.com/understanding-docker)
 
+---
 
-<div align="left">
-<a href="https://github.com/maxsupun"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinurad&bg_color=0%2C000000%2C040354&text_color=D3D3D3&icon_color=105bde&line_height=20&title_color=98edc4&layout=compact" alt="Most Used Languages"></a>
-</div>
-
-
-
-
-## 🏆 GitHub Activity
-
-![Metrics](https://metrics.lecoq.io/maxsupun?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
-
-
+Thank you for visiting my profile! Feel free to reach out if you want to chat or collaborate on something exciting! 🚀
